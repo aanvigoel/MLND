@@ -1,4 +1,4 @@
-**Human Activity Recognition (HAR) using Smartphones Data**
+**Human Activity Recognition (HAR) using Smartphone Sensor Data**
 
 *Project Overview*<br>
 Over the last decade, fitness tracking has become a rising trend- especially owing to the convenience of using devices such as smartphones, fitness trackers and smart watches. Devices collect user data from sensors such as accelerometer, gyroscope, heartbeat monitor for calibrations and measurements. A key part of fitness tracking is understanding the state of motion of the user and autodetection of activity is a key feature that has started becoming a part of the key offerings.<br>
